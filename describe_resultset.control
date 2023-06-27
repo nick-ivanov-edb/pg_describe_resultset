@@ -1,0 +1,5 @@
+# describe_resultset extension
+comment = 'describe tuples retuned by the supplied query'
+default_version = '1.0.0'
+module_pathname = '$libdir/describe_resultset'
+relocatable = true
